@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\Alunos\Desktop\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\989846172.index
+\pepa.teste\src
+C:\Users\Alunos\Desktop\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1841705062.index
+\FakeNews-master\FakeNews\src
+C:\Users\Alunos\Desktop\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3562790268.index
+\hate\src
+C:\Users\Alunos\Desktop\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1301099713.index
+\FakeNews-master\FakeNews\src
+C:\Users\Alunos\Desktop\Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1491128307.index
+\pepa.teste\src
